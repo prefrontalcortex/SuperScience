@@ -1,0 +1,22 @@
+{
+    "name": "com.unity.super-science.missing-references",
+    "description": "Finds missing references in Unity projects. Part of the SuperScience! project.", 
+    "author": {
+        "name":"Unity Technologies", 
+        "url":"https://unity.com"
+    },
+    "version": "0.5.0-preview",
+    "unity": "2019.1",
+    "unityRelease":"0a1",
+    "displayName": "Super Science! Missing Reference Finder",
+    "keywords": [
+        "unity",
+        "superscience",
+        "tool",
+        "helper"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://gitlab.com/Unity-Technologies/SuperScience.git"
+    }
+  }
